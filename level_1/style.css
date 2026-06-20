@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+
+h1 {
+   color: black;
+}
+/* This is paragraph */
+p{
+    color: rgb(0, 0, 0);
+    
+}
+
+button {
+    background-color: skyblue;
+    color: rgba(6, 8, 6, 0.779);
+    border: 2;
+    border-color: aqua;
+}
