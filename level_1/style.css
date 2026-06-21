@@ -1,20 +1,16 @@
-body{
-    background-color: aqua;
+* {
+    color: pink;
 }
-
 
 h1 {
-   color: black;
-}
-/* This is paragraph */
-p{
-    color: rgb(0, 0, 0);
-    
+    color: red;
+    text-align: center;
 }
 
-button {
-    background-color: skyblue;
-    color: rgba(6, 8, 6, 0.779);
-    border: 2;
-    border-color: aqua;
+#headingTwo {
+    color: black;
+}
+
+.webDev {
+    color: blueviolet;
 }
