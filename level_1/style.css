@@ -1,16 +1,52 @@
+/* Element Selector */
+h1, h2 {
+    color: blue;
+}
+
+body {
+    background-color: lightgray;
+}
+
+/* Class Selector */
+.note {
+    color: white;
+    background-color: green;
+}
+
+/* ID Selector */
+#mainTitle {
+    color: White;
+    background-color: black;
+}
+
+/* Universal Selector */
 * {
-    color: pink;
+    color: darkblue;
 }
 
-h1 {
+/* Descendant Selector */
+
+div p {
     color: red;
-    text-align: center;
 }
 
-#headingTwo {
+
+/* Child Selector(>) */
+div > p {
+    color: orange;
+}
+
+
+/* Challenge for practice */
+h1 {
+    background-color: red;
+}
+
+p {
+    color: White;
+}
+
+button {
+    background-color: yellow;
     color: black;
-}
-
-.webDev {
-    color: blueviolet;
 }
