@@ -1,6 +1,6 @@
 /* Color */
 p {
-    color: blue;
+    color: red;
 }
 
 /* text-align */
@@ -49,4 +49,39 @@ h4 {
 
 h5 {
     word-spacing: 20px;
+}
+
+/* line-height: Controls vertical spacing between lines. */
+#lineheight {
+    line-height: 40px;
+}
+
+/* text-indent: Adds space before first line. */
+
+#lineheight {
+    text-indent: 50px;
+}
+
+/* text-shadow: Adds shadow behind text. */
+
+#lineheight {
+    text-shadow: 2px 2px 5px gray;
+}
+
+/* font-size: Changes text size. */
+
+#fontSize {
+    font-size: 30px;
+}
+
+/* font-weight: Controls thickness. */
+
+#fontWeight {
+    font-weight: bold;
+}
+
+/* font-style: Changes style. */
+
+#fontWeight {
+    font-style: italic;
 }
