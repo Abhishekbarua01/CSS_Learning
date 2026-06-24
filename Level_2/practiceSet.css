@@ -1,0 +1,60 @@
+body {
+    background-color: lightblue;
+}
+
+/* Main Box */
+
+.card{
+    background-color: white;
+
+    /* Border */
+    border: 4px dashed blue;
+
+    /* Space outside */
+    margin: 50px;
+
+    /* Space inside */
+    padding: 60px;
+
+}
+
+/* Heading */
+h1{
+    color: darkred;
+
+    text-align: center;
+
+    text-transform: lowercase;
+
+    text-decoration: underline;
+
+    letter-spacing: 3px;
+}
+
+p{
+    color: darkgreen;
+
+    font-size: 20px;
+
+    font-family: Arial;
+
+    line-height: 35px;
+
+    text-indent: 40px;
+}
+
+/* Button */
+button{
+    background-color: orange;
+
+    color: white;
+
+    /* border: 30px solid black; */
+    border-radius: 20px;
+
+    padding: 10px 20px;
+
+    margin-top: 20px;
+
+    font-size: 18px;
+}

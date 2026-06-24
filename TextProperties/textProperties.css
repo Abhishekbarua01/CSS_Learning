@@ -62,6 +62,11 @@ h5 {
     text-indent: 50px;
 }
 
+#fontstyle{
+    line-height: 25px;
+}
+
+
 /* text-shadow: Adds shadow behind text. */
 
 #lineheight {
@@ -83,5 +88,9 @@ h5 {
 /* font-style: Changes style. */
 
 #fontWeight {
+    font-style: italic;
+}
+
+#fontstyle {
     font-style: italic;
 }
