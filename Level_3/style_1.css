@@ -1,0 +1,34 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+body{
+    background-image: url(Bird.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+#box1{
+    background-image: url(Bird.png);
+    background-size: cover;
+    
+
+}
+
+#box2{
+    background-color: green;
+    
+}
+
+#box3{
+    background-color: aqua;
+    
+}
+
+#box4{
+    background-color: blue;
+
+}
